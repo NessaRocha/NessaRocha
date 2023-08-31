@@ -2,10 +2,13 @@
 <img align="center" style="margin-bottom:100px" width=100% src="space desktop wallpaper (3).png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">❤️ Apaixonada por tecnologia e com habilidades em linguagens de programação como C# e noções de Python, além de conhecimentos em bancos de dados SQL e noções em NoSQL. Busco sempre me atualizar mesmo que esporadicamente estando atenta a Ciência de Dados e tecnologias de Cloud.</p>&nbsp;
+
+<p align="center">Acredito que o sucesso de um projeto de software está relacionado à compreensão das necessidades do cliente regras de negócio e à aplicação das melhores práticas de arquitetura de software. Com experiência em trabalhar com equipes multifuncionais, sou capaz de entregar soluções de qualidade, levando em consideração recursos, processos e performance.</p>&nbsp;
+
+<p align="center">Me considero uma desenvolvedora dedicada e comprometida com resultados, Estou em busca de novos desafios e oportunidades para aplicar meus conhecimentos e habilidades em busca de aprimoramento e crescimento..</p>&nbsp;
 
 
- 
  &nbsp;
  &nbsp;
 
