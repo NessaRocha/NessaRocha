@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="Sem nome (Banner para Career Page do LinkedIn) (1).png" />
+<img align="center" style="margin-bottom:100px" width=100% src="Sem nome (Banner para Career Page do LinkedIn) (2).png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Vivenciando a tecnologia a cada dia mais desenvolvendo minhas habilidades em React e Node, além de conhecimentos em bancos de dados SQL e noções em NoSQL. 
