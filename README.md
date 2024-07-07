@@ -75,5 +75,4 @@
 </div>&nbsp;&nbsp;
 
   
-  
-<img width=100% src="space desktop wallpaper (6).png"/>
+
