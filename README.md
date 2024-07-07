@@ -53,17 +53,24 @@
 ## Contacts:
 
 <div> 
+<a href="https://www.linkedin.com/in/vanessa-rocha86/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href = "mailto:vanessa.cardoso@rede.ulbra.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/_nessa.rocha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "mailto:vanessa.cardoso@rede.ulbra.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vanessa-rocha86/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://www.threads.net" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"  target="_blank"></a>
-<a href="https://www.twitter.com" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  target="_blank"></a>
+<a href="https://www.threads.net/@_nessa.rocha" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"  target="_blank"></a>
+<a href="https://x.com/_VanessadaRocha" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  target="_blank"></a>
 
 
 
 </div>&nbsp;&nbsp;
  
+## idiomas:
+<div> 
+![English](https://img.shields.io/badge/English-0077B5?style=for-the-badge&logo=language&logoColor=white); Técnico Intermediario
+![French](https://img.shields.io/badge/French-0055A4?style=for-the-badge&logo=language&logoColor=white); Iniciante
+
+ 
+</div>&nbsp;&nbsp;
 
   
   
