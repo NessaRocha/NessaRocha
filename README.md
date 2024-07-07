@@ -57,6 +57,10 @@
 </a>
 <a href = "mailto:vanessa.cardoso@rede.ulbra.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vanessa-rocha86/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.threads.net" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"  target="_blank"></a>
+<a href="https://www.twitter.com" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  target="_blank"></a>
+
+
 
 </div>&nbsp;&nbsp;
  
