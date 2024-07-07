@@ -66,9 +66,10 @@
  
 ## idiomas:
 <div> 
-![English](https://img.shields.io/badge/English-0077B5?style=for-the-badge&logo=language&logoColor=white); 
-![French](https://img.shields.io/badge/French-0055A4?style=for-the-badge&logo=language&logoColor=white);
+### Idiomas
 
+![English](https://img.shields.io/badge/English-0077B5?style=for-the-badge&logo=language&logoColor=white) Técnico Intermediario 
+![French](https://img.shields.io/badge/French-0055A4?style=for-the-badge&logo=language&logoColor=white) Iniciante
  
 </div>&nbsp;&nbsp;
 
