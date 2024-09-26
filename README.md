@@ -2,14 +2,14 @@
 <img align="center" style="margin-bottom:100px" width=100% src="Sem nome (Banner para Career Page do LinkedIn) (2).png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Vivenciando a tecnologia a cada dia mais desenvolvendo minhas habilidades em React e Node, além de conhecimentos em bancos de dados SQL e noções em NoSQL. 
- Buscando sempre me atualizar me aprofundando atualmente em React Native e realizando uma pós em Automação Industrial e Rebótica pois a Inteligência Artificial e Automação me facinam também.</p>&nbsp;
+<p align="center">Experiencing technology daily, I have been developing my skills in React and Node.js, as well as deepening my knowledge in SQL databases and notions in NoSQL. Always seeking to keep myself updated, I am currently specializing in Artificial Intelligence, Prompt Engineering, and LLMs, along with accessibility. I have completed a postgraduate degree in Industrial Automation and Robotics, which provided me with significant growth in programming logic, problem-solving, and the ability to apply reasoning in projects, from the overall view to specific tasks.</p>&nbsp;
 
-<p align="center">Acredito que o sucesso de um projeto de software está relacionado à compreensão das necessidades do cliente regras de negócio e à aplicação das melhores práticas de arquitetura de software. Com experiência em trabalhar com equipes multifuncionais, sou capaz de entregar soluções de qualidade, levando em consideração recursos, processos e performance.</p>&nbsp;
+<p align="center">I believe that the success of a software project is related to understanding client needs, business rules, and the application of best software architecture practices. With experience working in cross-functional teams, I am able to deliver quality solutions, taking into account resources, processes, performance, and especially the accessibility of applications and the integration of artificial intelligence.</p>&nbsp;
 
-<p align="center">Me considero uma desenvolvedora dedicada e comprometida com resultados, Estou em busca de novos desafios e oportunidades para aplicar meus conhecimentos e habilidades em busca de aprimoramento e crescimento..</p>&nbsp;
+<p align="center">My current focus is on prompt engineering, artificial intelligence, and accessibility, following international guidelines in these areas that fascinate and motivate me to deepen my knowledge. I believe that technology should be inclusive, and I am committed to implementing practices that make applications accessible and responsive to all users.</p>&nbsp;
 
-<p align="center">Atualmente estudo Inglês e Francês, pois estou focada em crescimento de carreira internacional e como é uma tragetória longa, sempre se é necessário preparo e constância de idioma assim como a programação.</p>&nbsp;
+<p align="center">I consider myself a dedicated developer committed to results. I am seeking new challenges and opportunities to apply my knowledge and skills in pursuit of professional improvement and growth.</p>&nbsp;
+<p align="center">Currently, I study English daily in continuous immersion, as I am focused on international career growth and, since it is a long journey, I know that preparation and consistency in language learning are necessary, just like in programming.</p>&nbsp;
 
 
  &nbsp;
@@ -20,12 +20,27 @@
 ## Minhas Skills
 
 #### Principais Stack:
+![Inteligência Artificial](https://img.shields.io/badge/Inteligência_Artificial-9C27B0?style=for-the-badge&logo=robot&logoColor=white)
+![IA](https://img.shields.io/badge/IA-FF5722?style=for-the-badge&logo=brain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Engenharia de Prompt](https://img.shields.io/badge/Engenharia_de_Prompt-FF9800?style=for-the-badge&logo=command&logoColor=white)
+![Large Language Models](https://img.shields.io/badge/Large_Language_Models-009688?style=for-the-badge&logo=language&logoColor=white)
+![Acessibilidade](https://img.shields.io/badge/Acessibilidade-4CAF50?style=for-the-badge&logo=accessibility&logoColor=white)
+![Normas Internacionais de Acessibilidade](https://img.shields.io/badge/Normas_Internacionais-2196F3?style=for-the-badge&logo=globe&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM Version](https://img.shields.io/npm/v/npm?style=for-the-badge&logo=npm&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Integração de API](https://img.shields.io/badge/Integração_de_API-1E90FF?style=for-the-badge&logo=api&logoColor=white)
+![API](https://img.shields.io/badge/API-FF6347?style=for-the-badge&logo=api&logoColor=white)
+
+
+
 
 
 
@@ -35,6 +50,8 @@
 
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Sqllite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 #### Workstation Tools:
 
@@ -70,7 +87,7 @@
 ### Idiomas
 
 ![English](https://img.shields.io/badge/English-0077B5?style=for-the-badge&logo=language&logoColor=white) Técnico Intermediario 
-![French](https://img.shields.io/badge/French-0055A4?style=for-the-badge&logo=language&logoColor=white) Iniciante
+
  
 </div>&nbsp;&nbsp;
 
