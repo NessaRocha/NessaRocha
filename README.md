@@ -1,5 +1,6 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="Professional LinkedIn Banner.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="Banner Vernity ![banner vernity](https://github.com/user-attachments/assets/a4d17ec3-b9a5-445f-84ef-ba0c3fc609bb)
+.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Experiencing technology daily, I have been developing my skills in React and Node.js, as well as deepening my knowledge in SQL databases and notions in NoSQL. Always seeking to keep myself updated, I am currently specializing in Artificial Intelligence, Prompt Engineering, and LLMs, along with accessibility. I have completed a postgraduate degree in Industrial Automation and Robotics, which provided me with significant growth in programming logic, problem-solving, and the ability to apply reasoning in projects, from the overall view to specific tasks.</p>&nbsp;
