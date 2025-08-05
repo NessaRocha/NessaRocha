@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="Banner Vernity ![banner vernity](https://github.com/user-attachments/assets/a4d17ec3-b9a5-445f-84ef-ba0c3fc609bb)
+<img align="center" style="margin-bottom:100px" width=100% src="Banner Vernity banner vernity.jpeg")
 .png" />
 &nbsp;&nbsp;&nbsp;
 
