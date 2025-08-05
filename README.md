@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./banner-vernity.jpeg" alt="Banner Vernity" width="100%" />
+  <img src="./banner-vernity.jpg" alt="Banner Vernity" width="100%" />
 </p>
 
 &nbsp;&nbsp;&nbsp;
