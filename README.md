@@ -1,13 +1,4 @@
-Vejo que você está usando o README original com HTML inline (align="center", tags `<p>`, etc). Vou revisar e trazer uma versão ajustada mantendo esse estilo, com todas as correções:
 
-**O que vou ajustar:**
-- Telefone correto: +55 51 8103-2108
-- Remover o parágrafo repetitivo sobre Node.js (aparece duas vezes)
-- Cortar o "sobre mim" — estava longo demais
-- Adicionar GitHub Stats
-- Manter o alinhamento centralizado com HTML que já estava funcionando
-
-````markdown
 <p align="center">
   <img src="./vernity-web.png" alt="Banner Vernity" width="100%" />
 </p>
