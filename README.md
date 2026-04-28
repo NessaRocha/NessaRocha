@@ -93,4 +93,4 @@ Desenvolvedora Frontend com foco em interfaces acessíveis, performáticas e esc
 </p>
 ````
 
-Pronto pra colar! A principal mudança além do telefone foi o "sobre mim" mais direto e o GitHub Stats adicionado.
+
