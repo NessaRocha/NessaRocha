@@ -1,40 +1,41 @@
+Vejo que você está usando o README original com HTML inline (align="center", tags `<p>`, etc). Vou revisar e trazer uma versão ajustada mantendo esse estilo, com todas as correções:
 
+**O que vou ajustar:**
+- Telefone correto: +55 51 8103-2108
+- Remover o parágrafo repetitivo sobre Node.js (aparece duas vezes)
+- Cortar o "sobre mim" — estava longo demais
+- Adicionar GitHub Stats
+- Manter o alinhamento centralizado com HTML que já estava funcionando
+
+````markdown
 <p align="center">
   <img src="./vernity-web.png" alt="Banner Vernity" width="100%" />
 </p>
 
-<h1 align="center">Vanessa Rocha - Desenvolvedora Frontend</h1>
+<h1 align="center">Vanessa Rocha · Frontend Developer</h1>
 
 <p align="center">
-Atuando diariamente com tecnologia, venho consolidando minhas habilidades como <strong>desenvolvedora Frontend</strong>, com foco em <strong>React.js</strong> e <strong>Node.js</strong>, além de ampliar minha experiência no ecossistema <strong>WordPress</strong> e <strong>Shopify</strong>. No meu trabalho na <strong>Vernity Web</strong>, aplico soluções modernas que aliam desempenho, escalabilidade e usabilidade para projetos web dinâmicos e acessíveis.
+  <strong>React.js · TypeScript · Node.js · WordPress · Shopify · AI Integration</strong>
 </p>
 
 <p align="center">
-Com base em uma sólida formação técnica, que inclui pós-graduação em <strong>Automação Industrial e Robótica</strong>, desenvolvo uma visão integrada de sistemas, aplicando lógica de programação e melhores práticas de arquitetura de software para entregar produtos eficientes e de alta qualidade. Entendo a importância de mapear as necessidades do cliente e as regras de negócio para garantir resultados que fazem a diferença.
+Desenvolvedora Frontend com foco em interfaces acessíveis, performáticas e escaláveis. Atuo na <strong>Vernity Web</strong> entregando projetos com React.js, WordPress e Shopify — sempre com atenção a boas práticas de UX, acessibilidade e performance. Tenho ainda background em <strong>Engenharia de Prompts e LLMs</strong>, integrando IA como camada de valor em produtos digitais.
 </p>
 
 <p align="center">
-No dia a dia, atuo com stacks modernas — <strong>React.js</strong> para interfaces responsivas e ricas em interatividade, <strong>Node.js</strong> para backend escalável, além da customização e desenvolvimento em <strong>WordPress</strong> e <strong>Shopify</strong>, plataformas que possibilitam projetos ágeis e altamente adaptáveis. Busco sempre seguir padrões de <strong>acessibilidade</strong> e <strong>performance</strong>, garantindo que as aplicações sejam inclusivas e entreguem valor real a todos os usuários.
-</p>
-
-<p align="center">
-Além disso, me especializo em <strong>Inteligência Artificial</strong> e <strong>Engenharia de Prompts para LLMs</strong>, incorporando essas tecnologias emergentes ao desenvolvimento frontend, potencializando a experiência do usuário e a automação inteligente em aplicações web. Minha dedicação ao estudo contínuo de <strong>inglês</strong> reforça meu compromisso com crescimento profissional internacional e comunicação efetiva em equipes multiculturais.
-</p>
-
-<p align="center">
-Sou uma profissional comprometida com a entrega de resultados, sempre aberta a novos desafios e pronta para evoluir com as tecnologias e tendências do mercado digital.
+📍 Torres, RS &nbsp;·&nbsp; 🌐 <a href="https://www.vernityweb.com.br">vernityweb.com.br</a> &nbsp;·&nbsp; 💼 <a href="https://www.linkedin.com/in/devvanessarocha/">LinkedIn</a> &nbsp;·&nbsp; 📱 <a href="https://wa.me/5551810321080">WhatsApp</a>
 </p>
 
 ---
 
-## 🚀 Skills & Stacks
+## 🛠 Stack
 
 ### Principais Tecnologias
 
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-96bf48?style=for-the-badge&logo=shopify&logoColor=white)
 
@@ -62,14 +63,23 @@ Sou uma profissional comprometida com a entrega de resultados, sempre aberta a n
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NessaRocha&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NessaRocha&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
 ## 📫 Contatos
 
-| Plataforma   | Link / Número                               |
-| ------------ | ------------------------------------------ |
-| 🌐 Site      | [vernityweb.com.br](https://www.vernityweb.com.br) |
-| 📸 Instagram | [@vernityweb](https://www.instagram.com/vernityweb)   |
-| 💼 LinkedIn  | [linkedin.com/in/devvanessarocha](https://www.linkedin.com/in/devvanessarocha/) |
-| 📱 WhatsApp  | [+55 51 99613-8467](https://wa.me/5551996138467)     |
+| Plataforma | Link |
+|---|---|
+| 🌐 Site | [vernityweb.com.br](https://www.vernityweb.com.br) |
+| 📸 Instagram | [@vernityweb](https://www.instagram.com/vernityweb) |
+| 💼 LinkedIn | [linkedin.com/in/devvanessarocha](https://www.linkedin.com/in/devvanessarocha/) |
+| 📱 WhatsApp | [+55 51 8103-2108](https://wa.me/5551810321080) |
 
 ---
 
@@ -87,6 +97,9 @@ Sou uma profissional comprometida com a entrega de resultados, sempre aberta a n
 
 ---
 
-<p align="center">  
-  Obrigada por visitar meu perfil! Vamos conectar e criar soluções incríveis. 🚀  
+<p align="center">
+  Obrigada por visitar meu perfil! Vamos conectar e criar soluções incríveis. 🚀
 </p>
+````
+
+Pronto pra colar! A principal mudança além do telefone foi o "sobre mim" mais direto e o GitHub Stats adicionado.
